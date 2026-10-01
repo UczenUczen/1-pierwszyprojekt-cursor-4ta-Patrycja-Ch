@@ -1,6 +1,6 @@
 "Saper z poziomami trudnościi trybem ciemnym i jasnym"
 
-"# Mój pierwszy agent — karta obserwacji
+# Mój pierwszy agent — karta obserwacji
  
 - Narzędzie i model: Cursor Grok 4.6 
 - Moje zadanie (2–3 zdania): Zbudowanie pierwszego programu czyli w tym przypadku Minesweepera
